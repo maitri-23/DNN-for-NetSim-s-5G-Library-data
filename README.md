@@ -15,4 +15,4 @@ Label: SINR
 Features: Distance, Angle, ISD
 Label: SINR
 
-To run the files, we can either use jupyter notebook or Google Colab. The folder data contains the necessary csv files. To run the files, tensorflow, pandas, matplotlib needs to be installed on the system and set the path of csv files accordingly. The Google colab already has libraries installed and one needs to upload the csv file to drive to run the program
+To run the files, we can either use jupyter notebook or Google Colab. The folder data contains the necessary csv files. To run the files, tensorflow, pandas, matplotlib needs to be installed on the system and set the path of csv files accordingly. The Google colab already has libraries installed and one needs to add lines for uploading the csv file to drive to run the program.
